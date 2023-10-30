@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+  "wmi-query-rs",
+  "smbios-rs",
+  "regedit-rs",
+]
